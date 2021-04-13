@@ -15,3 +15,16 @@ learning date 2021/04/12
 * quite
 * interstellar travel
 ______
+learning date 2021/04/13
+* represent
+* recurring
+* theme
+* settle
+* garage
+* planet
+* laboratory
+* valedictorian
+* discussed
+* colonizing
+* giant
+* preserve
