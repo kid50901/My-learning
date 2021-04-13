@@ -16,6 +16,7 @@ learning date 2021/04/12
 * interstellar travel
 ______
 learning date 2021/04/13
+### WORD
 * represent
 * recurring
 * theme
