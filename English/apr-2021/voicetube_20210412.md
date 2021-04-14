@@ -29,3 +29,14 @@ learning date 2021/04/13
 * colonizing
 * giant
 * preserve
+_____
+learning date 2021/04/14
+### WORD
+* billionair
+* desire
+* acrrue
+* wealth
+* driven
+* pinnacel
+* quant
+* make a name for himself
