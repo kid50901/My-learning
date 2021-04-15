@@ -40,3 +40,16 @@ learning date 2021/04/14
 * pinnacel
 * quant
 * make a name for himself
+_____
+learning date 2021/04/15
+### WORD
+* untapped
+* industry
+* damage
+* optimism
+* component
+* pack his stuff up
+* incorporated
+* cadaver
+* ultimately
+* landed on
