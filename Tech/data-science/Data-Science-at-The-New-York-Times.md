@@ -24,6 +24,7 @@
 
 ----
 ## 個人對 Data science 在產業應用的看法
-Data science 應用比較成熟的產業是網路平台業，如Facebook、Google、Amazon、阿里巴巴、騰訊...，我們可以觀察這些巨頭公司對於 Data science 職位的 job description 來研究，一個成熟的資料科學體系需要什麼樣的組織分工。一般來說 Data science team 會有三種工程師(Data Engineer、Data analyst、Data scientist)
+Data science 應用比較成熟的產業是網路平台業，如Facebook、Google、Amazon、阿里巴巴、騰訊...，我們可以觀察這些巨頭公司對於 Data science 職位的 job description 來研究，一個成熟的資料科學體系需要什麼樣的組織分工。一般來說 Data science team 會有三種工程師(Data Engineer、Data analyst、Data scientist)，用來區分這三個職位，可以用[Monica Rogati](https://www.linkedin.com/in/mrogati)的 data science pyramid
+
 
 
