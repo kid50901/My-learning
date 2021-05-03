@@ -24,13 +24,13 @@
 
 ----
 ## 個人對 Data science 在產業應用的看法
-Data science 應用比較成熟的產業是網路平台業，如Facebook、Google、Amazon...，我們可以觀察這些巨頭公司對於 Data science 職位的 [job description](https://www.amazon.jobs/en/job_categories/data-science?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) 來研究，一個成熟的資料科學體系需要什麼樣的組織分工。一般來說 Data science team 會有三種工程師(Data Engineer、Data analyst、Data scientist)，可以用[Monica Rogati](https://www.linkedin.com/in/mrogati)提出的 data science pyramid 來區分。
+Data science 應用比較成熟的產業是網路平台業，如Facebook、Google、Amazon...，我們可以觀察這些巨頭公司對於 Data science 職位的 [job description](https://www.amazon.jobs/en/job_categories/data-science?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) 來研究，一個成熟的資料科學體系需要什麼樣的組織分工。一般來說 Data science team 會有三種工程師(Data Engineer、Data analyst、Data scientist)，可以用[Monica Rogati](https://www.linkedin.com/in/mrogati)提出的 [data science pyramid](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) 來區分。
 ![alt text](https://github.com/kid50901/My-learning/blob/master/img/1_7IMev5xslc9FLxr9hHhpFw.png?raw=true)
 如同馬斯洛需求金字塔的概念，data science pyramid 同樣也是由下往上進行條件滿足，換句話說，滿足下層才能往上層走。。
 * Data Engineer : 主要負責最下面兩層collect、store/move，是資料科學應用在產業的基礎建設所以他非常重要，所需投資的人力也最多。主要工作內容有建立資料庫、建立資料通道、將演算法落地系統並優化效能。技能要求偏向傳統的 computer science，比較接近IT，使用程式python、SQL、JAVA、PHP、HTML...。
  * Data analyst : 為資料科學家的入門職位，主要負責exlore/transform、aggregate/label層，主要工作為資料清洗與基礎的資料分析(資料聚合、切片、篩選...)，可能也會進行簡單的建模工作(call model)，通常一般碩士統計數學相關科系畢業即可，使用程式python、SQL、R、SAS、EXCEL...。
 * Data scientist : 負責金字塔頂端的工作，負責ML/DL的演算法開發，優化現有模型、建立新演算法，一般由 PHD 擔任此工作，需要極強的數學統計基礎，且需時常study論文，跟上最新的 ML 趨勢，使用程式 python..，有些公司會把Data analyst 、Data scientist 統稱 Data scientist。
 
- 一個產業若想應用 Data science 且有所成就，須由下往上找尋適合的人才，並從金字塔基底做起，可以沒有ML/DL，但不可以沒有Database、pipline、systom，否則演算法再好也沒有對應的資料與落地的場域。以youtube 為例，如果yt沒有效能最好、最友善的 web 介面，即使有超強的推薦演算法，也無法從介面蒐集到資料，更沒有可以放置演算法的殼。data science 可以創造價值，但他必須基於computer science 之上。
+ 一個產業若想應用 Data science 且有所成就，須由下往上找尋適合的人才，並從金字塔基底做起，可以沒有ML/DL，但不可以沒有Database、pipline、systum，否則演算法再好也沒有對應的資料與落地的場域。以youtube 為例，如果yt沒有效能最好、最友善的 web 介面，即使有超強的推薦演算法，也無法從介面蒐集到資料，更沒有可以放置演算法的殼。data science 可以創造價值，但他必須基於computer science 之上。
 
 
