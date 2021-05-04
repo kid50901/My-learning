@@ -7,7 +7,7 @@
 ![alt text](https://github.com/kid50901/My-learning/blob/master/img/main-qimg-0434dc91cfe529790780b590da4d4f90.jpg?raw=true)
 ## 起源
 >* 20世紀二戰期間，圖靈製作了一台可以破譯密碼的計算機，協助盟軍擊潰納粹，也開啟了計算機科學的時代。
->* 1969 ARPANET 上線 ，1989年Tim Berners-Lee發明了www，1990年第一個網頁誕生。
+>* 1969 [ARPANET](https://theconversation.com/how-the-internet-was-born-from-the-arpanet-to-the-internet-68072) 上線 ，1989年Tim Berners-Lee發明了www，1990年[第一個網頁](http://info.cern.ch/hypertext/WWW/TheProject.html)誕生。
 >* 2001年 William Cleveland 首次提議設立一個新的學科"data science"，直到今日，data science 已是各項產業爭相發展的領域。
 ## Position
 >Data science 應用比較成熟的產業是網路平台業，如Facebook、Google、Amazon...，我們可以觀察這些巨頭公司對於 Data science 職位的 [job description](https://www.amazon.jobs/en/job_categories/data-science?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) 來研究，一個成熟的資料科學體系需要什麼樣的組織分工。一般來說 Data science team 會有三種工程師(Data Engineer、Data analyst、Data scientist)，可以用[Monica Rogati](https://www.linkedin.com/in/mrogati)提出的 [data science pyramid](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) 來區分。
