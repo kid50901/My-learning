@@ -5,6 +5,12 @@
 ## 名詞
 >資料科學、資料探勘、大數據、人工智慧、機器學習...近10年如雨後春筍冒出的名詞，每個看起來都好潮，任何人只要說出這些名詞瞬間就覺得自己專業了起來，但到底它們是什麼?又有什麼不同?
 ![alt text](https://github.com/kid50901/My-learning/blob/master/img/main-qimg-0434dc91cfe529790780b590da4d4f90.jpg?raw=true)
+* Big data : 處理大量資料的技術，數據及需符合 3V 才算大數據(Volume、Velocity、Variety)多量、高頻、多樣。
+* Data science : 對資料進行處理，產生有價值的產物。
+* Data mining : 對資料進行萃取，產生有價值的產物。
+* AI : 能夠表現出類人智能的機器。
+* Machine Learning : 以大量已提取屬性的數據建立模型，進行分類。
+* Deep Learnig : 以大量未提取屬性的數據建立模型，進行分類。
 ## 起源
 >* 20世紀二戰期間，圖靈製作了一台可以破譯密碼的計算機，協助盟軍擊潰納粹，也開啟了計算機科學的時代。
 >* 1969 [ARPANET](https://theconversation.com/how-the-internet-was-born-from-the-arpanet-to-the-internet-68072) 上線 ，1989年Tim Berners-Lee發明了www，1990年[第一個網頁](http://info.cern.ch/hypertext/WWW/TheProject.html)誕生。
