@@ -11,10 +11,12 @@
 * AI : 能夠表現出類人智能的機器。
 * Machine Learning : 以大量已提取屬性的數據建立模型，進行分類。
 * Deep Learnig : 以大量未提取屬性的數據建立模型，進行分類。
+![alet test](https://github.com/kid50901/My-learning/blob/master/img/1_eh48E1DUcz7uHusyRtIrhQ.png?raw=true)
 ## 起源
 >* 20世紀二戰期間，圖靈製作了一台可以破譯密碼的計算機，協助盟軍擊潰納粹，也開啟了計算機科學的時代。
 >* 1969 [ARPANET](https://theconversation.com/how-the-internet-was-born-from-the-arpanet-to-the-internet-68072) 上線 ，1989年Tim Berners-Lee發明了www，1990年[第一個網頁](http://info.cern.ch/hypertext/WWW/TheProject.html)誕生。
 >* 2001年 William Cleveland 首次提議設立一個新的學科"data science"，直到今日，data science 已是各項產業爭相發展的領域。
+![alt text](https://github.com/kid50901/My-learning/blob/master/img/The_Imitation_Game.jpg?raw=true)
 ## Position
 >Data science 應用比較成熟的產業是網路平台業，如Facebook、Google、Amazon...，我們可以觀察這些巨頭公司對於 Data science 職位的 [job description](https://www.amazon.jobs/en/job_categories/data-science?offset=0&result_limit=10&sort=relevant&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&) 來研究，一個成熟的資料科學體系需要什麼樣的組織分工。一般來說 Data science team 會有三種工程師(Data Engineer、Data analyst、Data scientist)，可以用[Monica Rogati](https://www.linkedin.com/in/mrogati)提出的 [data science pyramid](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) 來區分。
 ![alt text](https://github.com/kid50901/My-learning/blob/master/img/1_7IMev5xslc9FLxr9hHhpFw.png?raw=true)
@@ -34,5 +36,6 @@
 * 天氣預測
 * 影像辨識
 * 自動駕駛
+![alt text](https://github.com/kid50901/My-learning/blob/master/img/1efcc879f7b942ab92fd8c7f966c26b2.jpg?raw=true)
 ## 未來
 * 電腦科學界 21 世紀兩項最重要的發展，區塊鏈與 AI 正在醞釀，它們都還在嬰兒期，對人類的影響有限，但隨著摩爾定律硬體條件提升與開發社群的開源文化，許多原本在紙上的理論正在被極快的速度實現，或許是5年、10年人類生活將會有翻天覆地得變化，增加對新事物的認知是我們現在必須做的事，你的人生能擁有多少，取決你對這個世界的認知。
