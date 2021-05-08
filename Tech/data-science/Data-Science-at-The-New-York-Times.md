@@ -1,7 +1,7 @@
 # Data Science at The New York Times
 ------------------
 華柏維 2021/05/02 [原文連結](https://pubsonline.informs.org/do/10.1287/LYTX.2021.02.26n/full/?utm_campaign=Analytics+eNewsletter&utm_medium=email&_hsmi=122904023&utm_content=122904022&utm_source=hs_email&_hsenc=p2ANqtz-_W8q3fK0cJzlgUW1Rd7EQyWB_NDAPFw8I-o6Yl9MnXvSJSA1O84ArGNtMdbIPztNgvXF6GwyP5LQDAbxFXEUNjgHa-Ig)
-## 文章概述
+## 文章重點條列
 * 2001年 William Cleveland 首次提議設立一個新的學科"data science"，直到今日，data science 已是各項產業爭相發展的領域。
 * Chris Wiggins 成功引入 data science 在 [New York Time](https://www.nytimes.com/)，這是第一個將data science 融入進報紙業的例子。
 * data science 可以是 mindset(the way you think) 或 toolset(the tool you use)，Wiggins 利用資料並開發ML工具，部屬在編輯部並協助解決商業問題。
@@ -15,8 +15,8 @@
 ------
 ## 個人對本篇文章的看法
  看完整篇文章並蒐集相關資料，我覺得這是一篇比較空洞的文章，本篇主旨想要表達資料科學在報紙業的應用，前半段這方面的用詞比較模糊，只簡單表達機器學習的應用協助 New York Time 解決許多商業問題。後半段有舉出實際的兩個工具例子，但細查後發現一些問題。
-* Readerscoper：這應該是給內部 editor 用來觀看各種用戶資訊的介面，例如用戶top 10感興趣項目、用戶地區分佈...屬資訊的可視化。為敘述型分析，有在網路上找到某員工的 [blog](https://www.erincoughlin.com/nyt-readerscope)  介紹相關介面功能。
-*  Blossom：文章內敘述 Blossom 是由 New York Times 的 data science team 在 slack 所製作的工具，可以推薦 editors 在何時何地推送相關新聞內容。這我就比較困惑了，首先 slack 是一個非常受歡迎的teamwork 通訊軟體(有機會向大家介紹)。許多大公司用他來當公司內部通訊軟體 (ex. Uber、ORACLE、TIME...)。我去查 slack 的整合包的確有 Blossom 的相關"整合"。搜索網路發現 Blossom 是由一家公司所開發的專案管理app，客戶包含 facebook、apple...，產品功能不外乎是專案管理的一些任務分配、時程規劃安排等等，和本篇所敘述的相差甚大。  
+* Readerscoper：這應該是給內部 editor 用來觀看各種用戶資訊的介面，例如用戶 top 10感興趣項目、用戶地區分佈...屬資訊的可視化。為敘述型分析，有在網路上找到某員工的 [blog](https://www.erincoughlin.com/nyt-readerscope)  介紹相關介面功能。
+*  Blossom：文章內敘述 Blossom 是由 New York Times 的 data science team 在 slack 所製作的工具，可以推薦 editors 在何時何地推送相關新聞內容。這我就比較困惑了，首先 slack 是一個非常受歡迎的teamwork 通訊軟體(有機會向大家介紹)。許多大公司用他來當公司內部通訊軟體 (ex. Uber、ORACLE、TIME...)。我去查 slack 的整合包的確有 Blossom 的相關"整合"。搜索網路發現 Blossom 是由一家公司所開發的專案管理 app，客戶包含 facebook、apple...，產品功能不外乎是專案管理的一些任務分配、時程規劃安排等等，和本篇所敘述的相差甚大。  
 
 整體來說，我認為這只是一個 New York Times 對外宣揚將 ML 應用在報紙業的報告。實際有多少我持保留態度。
 
@@ -26,7 +26,7 @@ Data science 應用比較成熟的產業是網路平台業，如Facebook、Googl
 ![alt text](https://github.com/kid50901/My-learning/blob/master/img/1_7IMev5xslc9FLxr9hHhpFw.png?raw=true)
 如同馬斯洛需求金字塔的概念，data science pyramid 同樣也是由下往上進行條件滿足，換句話說，滿足下層才能往上層走。。
 * Data Engineer : 主要負責最下面兩層 collect、store/move，是資料科學應用在產業的基礎建設所以他非常重要，所需投資的人力也最多。主要工作內容有建立資料庫、建立資料通道、將演算法落地系統並優化效能。技能要求偏向傳統的 computer science，比較接近 IT，使用程式 python、SQL、JAVA、PHP、HTML...。
- * Data analyst : 為資料科學家的入門職位，主要負責 exlore/transform、aggregate/label層，主要工作為資料清洗與基礎的資料分析(資料聚合、切片、篩選...)，可能也會進行簡單的建模工作(call model)，通常一般碩士統計數學相關科系畢業即可，使用程式python、SQL、R、SAS、EXCEL...。
+ * Data analyst : 為資料科學家的入門職位，主要負責 exlore/transform、aggregate/label層，主要工作為資料清洗與基礎的資料分析(資料聚合、切片、篩選...)，可能也會進行簡單的建模工作(call model)，通常一般碩士統計數學相關科系畢業即可，使用程式 python、SQL、R、SAS、EXCEL...。
 * Data scientist : 負責金字塔頂端的工作，負責ML/DL的演算法開發，優化現有模型、建立新演算法，一般由 PHD 擔任此工作，需要極強的數學統計基礎，且需時常study論文，跟上最新的 ML 趨勢，使用程式 python，有些公司會把Data analyst 、Data scientist 統稱 Data scientist。
 
  一個產業若想應用 Data science 且有所成就，須由下往上找尋適合的人才，並從金字塔基底做起，可以沒有ML/DL，但不可以沒有Database、pipelines、system，否則演算法再好也沒有對應的資料與落地的場域。以 youtube 為例，如果 youtube 沒有效能最好、最友善的 web 介面，即使有超強的推薦演算法，也無法從介面蒐集到資料，更沒有可以放置演算法的殼。data science 可以創造價值，但他必須基於computer science 之上。
